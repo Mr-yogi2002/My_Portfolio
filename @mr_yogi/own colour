@@ -1,0 +1,43 @@
+/* Own colour */
+
+/* style.css */
+body {
+  background-color: #dfd8d8; /* Light gray color */
+  margin: 0;
+  font-family: Arial, sans-serif; /* Optional: Set a default font for the entire page */
+}
+
+nav {
+  background-color: #cccaca; /* Example: Dark background color for the nav */
+  color: white;
+  padding: 1em;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  padding: 0 1em;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.section__text__p1, .title, .btn, .icon, .details-container, .text-container {
+  color: #333; /* Example: Dark text color */
+}
+
+.btn {
+  background-color: #007bff; /* Example: Button background color */
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+/* Add additional styles as needed */
+
